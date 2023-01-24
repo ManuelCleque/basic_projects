@@ -1,3 +1,6 @@
+#Author: Manuel Cleque Valverde
+#Linkedin: https://www.linkedin.com/in/manuelcleque/
+#Github: https://github.com/ManuelCleque/basic_projects
 # Python program to create an editable table
   
 from tkinter import *
